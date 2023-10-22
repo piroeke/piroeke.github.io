@@ -19,6 +19,10 @@ nav {
     top: 0;
 }
 
+div{
+    margin-top: 50px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
